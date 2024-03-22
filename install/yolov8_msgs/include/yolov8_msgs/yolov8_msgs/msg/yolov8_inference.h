@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/build/yolov8_msgs/rosidl_generator_c/yolov8_msgs/msg/yolov8_inference.h

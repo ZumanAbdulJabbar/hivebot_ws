@@ -1,0 +1,33 @@
+[0.169s] Invoking command in '/home/zuman/hivebot_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hello_moveit -- -j6 -l6
+[0.258s] [ 20%] Built target home
+[0.326s] [ 40%] Built target pick_sprayer
+[0.382s] [ 60%] Built target gripper
+[0.436s] [ 80%] Built target clean_western_node
+[0.483s] [100%] Built target clean_toilet_node
+[0.705s] Invoked command in '/home/zuman/hivebot_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hello_moveit -- -j6 -l6
+[0.981s] Invoking command in '/home/zuman/hivebot_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hello_moveit
+[0.998s] -- Install configuration: "Debug"
+[0.998s] -- Execute custom install script
+[0.999s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/lib/hello_moveit/home
+[1.000s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/lib/hello_moveit/clean_toilet_node
+[1.000s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/lib/hello_moveit/clean_western_node
+[1.001s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/lib/hello_moveit/gripper
+[1.001s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/lib/hello_moveit/pick_sprayer
+[1.002s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/launch/clean_toilet.launch
+[1.002s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/config/delay_time.yaml
+[1.003s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/ament_index/resource_index/package_run_dependencies/hello_moveit
+[1.003s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/ament_index/resource_index/parent_prefix_path/hello_moveit
+[1.003s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.sh
+[1.003s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.dsv
+[1.004s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/path.sh
+[1.004s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/path.dsv
+[1.004s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.bash
+[1.004s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.sh
+[1.005s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.zsh
+[1.005s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.dsv
+[1.005s] -- Symlinking: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/package.dsv
+[1.026s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/ament_index/resource_index/packages/hello_moveit
+[1.044s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig.cmake
+[1.045s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig-version.cmake
+[1.046s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/package.xml
+[1.046s] Invoked command in '/home/zuman/hivebot_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hello_moveit

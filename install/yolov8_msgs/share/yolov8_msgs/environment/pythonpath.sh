@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/build/yolov8_msgs/ament_cmake_environment_hooks/pythonpath.sh

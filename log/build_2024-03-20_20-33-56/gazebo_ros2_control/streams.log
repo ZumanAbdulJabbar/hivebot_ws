@@ -1,0 +1,21 @@
+[0.114s] Invoking command in '/home/zuman/hivebot_ws/build/gazebo_ros2_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/gazebo_ros2_control -- -j6 -l6
+[0.178s] Invoked command in '/home/zuman/hivebot_ws/build/gazebo_ros2_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/gazebo_ros2_control -- -j6 -l6
+[0.225s] Invoking command in '/home/zuman/hivebot_ws/build/gazebo_ros2_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/gazebo_ros2_control
+[0.254s] -- Install configuration: ""
+[0.255s] -- Execute custom install script
+[0.255s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/ament_index/resource_index/package_run_dependencies/gazebo_ros2_control
+[0.255s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/ament_index/resource_index/parent_prefix_path/gazebo_ros2_control
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/ament_prefix_path.sh
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/ament_prefix_path.dsv
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/path.sh
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/path.dsv
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.bash
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.sh
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.zsh
+[0.257s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.dsv
+[0.257s] -- Symlinking: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/package.dsv
+[0.270s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/ament_index/resource_index/packages/gazebo_ros2_control
+[0.275s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/cmake/gazebo_ros2_controlConfig.cmake
+[0.275s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/cmake/gazebo_ros2_controlConfig-version.cmake
+[0.275s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/package.xml
+[0.331s] Invoked command in '/home/zuman/hivebot_ws/build/gazebo_ros2_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/gazebo_ros2_control

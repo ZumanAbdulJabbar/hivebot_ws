@@ -1,0 +1,16 @@
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/src/ur5_move_to_home.py
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ament_index/resource_index/package_run_dependencies/ur5_move_to_home_pkg
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ament_index/resource_index/parent_prefix_path/ur5_move_to_home_pkg
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/environment/ament_prefix_path.sh
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/environment/ament_prefix_path.dsv
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/environment/path.sh
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/environment/path.dsv
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/local_setup.bash
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/local_setup.sh
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/local_setup.zsh
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/local_setup.dsv
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/package.dsv
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ament_index/resource_index/packages/ur5_move_to_home_pkg
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/cmake/ur5_move_to_home_pkgConfig.cmake
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/cmake/ur5_move_to_home_pkgConfig-version.cmake
+/home/zuman/hivebot_ws/install/ur5_move_to_home_pkg/share/ur5_move_to_home_pkg/package.xml

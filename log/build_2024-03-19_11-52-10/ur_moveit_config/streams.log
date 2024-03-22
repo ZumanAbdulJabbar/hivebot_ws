@@ -1,0 +1,60 @@
+[0.084s] Invoking command in '/home/zuman/hivebot_ws/build/ur_moveit_config': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/urmoveit:/home/zuman/hivebot_ws/install/src:/home/zuman/hivebot_ws/install/moveit_config:/home/zuman/hivebot_ws/install/hivebot_moveit_config:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/ur_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/ur_moveit_config
+[0.306s] -- The C compiler identification is GNU 11.4.0
+[0.431s] -- The CXX compiler identification is GNU 11.4.0
+[0.452s] -- Detecting C compiler ABI info
+[0.542s] -- Detecting C compiler ABI info - done
+[0.549s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.550s] -- Detecting C compile features
+[0.552s] -- Detecting C compile features - done
+[0.559s] -- Detecting CXX compiler ABI info
+[0.652s] -- Detecting CXX compiler ABI info - done
+[0.659s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.660s] -- Detecting CXX compile features
+[0.660s] -- Detecting CXX compile features - done
+[0.688s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.850s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.935s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.079s] -- Configuring done
+[1.081s] -- Generating done
+[1.082s] -- Build files have been written to: /home/zuman/hivebot_ws/build/ur_moveit_config
+[1.087s] Invoked command in '/home/zuman/hivebot_ws/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/urmoveit:/home/zuman/hivebot_ws/install/src:/home/zuman/hivebot_ws/install/moveit_config:/home/zuman/hivebot_ws/install/hivebot_moveit_config:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/ur_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/ur_moveit_config
+[1.089s] Invoking command in '/home/zuman/hivebot_ws/build/ur_moveit_config': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/urmoveit:/home/zuman/hivebot_ws/install/src:/home/zuman/hivebot_ws/install/moveit_config:/home/zuman/hivebot_ws/install/hivebot_moveit_config:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/ur_moveit_config -- -j6 -l6
+[1.128s] Invoked command in '/home/zuman/hivebot_ws/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/urmoveit:/home/zuman/hivebot_ws/install/src:/home/zuman/hivebot_ws/install/moveit_config:/home/zuman/hivebot_ws/install/hivebot_moveit_config:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/ur_moveit_config -- -j6 -l6
+[1.157s] Invoking command in '/home/zuman/hivebot_ws/build/ur_moveit_config': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/urmoveit:/home/zuman/hivebot_ws/install/src:/home/zuman/hivebot_ws/install/moveit_config:/home/zuman/hivebot_ws/install/hivebot_moveit_config:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/ur_moveit_config
+[1.166s] -- Install configuration: ""
+[1.167s] -- Execute custom install script
+[1.168s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ament_index/resource_index/package_run_dependencies/ur_moveit_config
+[1.179s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ament_index/resource_index/parent_prefix_path/ur_moveit_config
+[1.188s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.sh
+[1.198s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.dsv
+[1.207s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/environment/path.sh
+[1.216s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/environment/path.dsv
+[1.224s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.bash
+[1.235s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.sh
+[1.248s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.zsh
+[1.257s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.dsv
+[1.268s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/package.dsv
+[1.280s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ament_index/resource_index/packages/ur_moveit_config
+[1.290s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig.cmake
+[1.299s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig-version.cmake
+[1.308s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/package.xml
+[1.317s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/demo.launch.py
+[1.326s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/move_group.launch.py
+[1.335s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/moveit_rviz.launch.py
+[1.343s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/rsp.launch.py
+[1.353s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/setup_assistant.launch.py
+[1.366s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/spawn_controllers.launch.py
+[1.378s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/static_virtual_joint_tfs.launch.py
+[1.387s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/launch/warehouse_db.launch.py
+[1.396s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/initial_positions.yaml
+[1.404s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/joint_limits.yaml
+[1.413s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/kinematics.yaml
+[1.421s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/moveit.rviz
+[1.430s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/moveit_controllers.yaml
+[1.438s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/pilz_cartesian_limits.yaml
+[1.447s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/robot.ros2_control.xacro
+[1.460s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/robot.srdf
+[1.473s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/robot.urdf.xacro
+[1.482s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/config/ros2_controllers.yaml
+[1.491s] -- Symlinking: /home/zuman/hivebot_ws/install/ur_moveit_config/share/ur_moveit_config/.setup_assistant
+[1.501s] Invoked command in '/home/zuman/hivebot_ws/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/urmoveit:/home/zuman/hivebot_ws/install/src:/home/zuman/hivebot_ws/install/moveit_config:/home/zuman/hivebot_ws/install/hivebot_moveit_config:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/ur_moveit_config

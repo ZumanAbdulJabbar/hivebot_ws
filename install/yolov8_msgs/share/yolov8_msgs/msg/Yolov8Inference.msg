@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/src/yolov8_msgs/msg/Yolov8Inference.msg

@@ -1,0 +1,21 @@
+[0.877s] Invoking command in '/home/zuman/hivebot_ws/build/detect_toilet': PYTHONPATH=/home/zuman/hivebot_ws/build/detect_toilet/prefix_override:/home/zuman/hivebot_ws/install/detect_toilet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/detect_toilet/build --no-deps install_data
+[1.156s] running develop
+[1.156s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.156s]   warnings.warn(
+[1.157s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.157s]   warnings.warn(
+[1.364s] running egg_info
+[1.365s] writing detect_toilet.egg-info/PKG-INFO
+[1.365s] writing dependency_links to detect_toilet.egg-info/dependency_links.txt
+[1.366s] writing entry points to detect_toilet.egg-info/entry_points.txt
+[1.366s] writing requirements to detect_toilet.egg-info/requires.txt
+[1.366s] writing top-level names to detect_toilet.egg-info/top_level.txt
+[1.367s] reading manifest file 'detect_toilet.egg-info/SOURCES.txt'
+[1.367s] writing manifest file 'detect_toilet.egg-info/SOURCES.txt'
+[1.369s] running build_ext
+[1.369s] Creating /home/zuman/hivebot_ws/install/detect_toilet/lib/python3.10/site-packages/detect-toilet.egg-link (link to .)
+[1.370s] Installing detect_toilet script to /home/zuman/hivebot_ws/install/detect_toilet/lib/detect_toilet
+[1.370s] 
+[1.370s] Installed /home/zuman/hivebot_ws/build/detect_toilet
+[1.370s] running install_data
+[1.411s] Invoked command in '/home/zuman/hivebot_ws/build/detect_toilet' returned '0': PYTHONPATH=/home/zuman/hivebot_ws/build/detect_toilet/prefix_override:/home/zuman/hivebot_ws/install/detect_toilet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/detect_toilet/build --no-deps install_data

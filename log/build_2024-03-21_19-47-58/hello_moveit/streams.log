@@ -1,0 +1,28 @@
+[0.205s] Invoking command in '/home/zuman/hivebot_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hello_moveit -- -j6 -l6
+[0.345s] [ 50%] Built target hello_moveit
+[0.378s] [35m[1mConsolidate compiler generated dependencies of target clean_toilet_node[0m
+[0.446s] [ 75%] [32mBuilding CXX object CMakeFiles/clean_toilet_node.dir/src/clean_toilet.cpp.o[0m
+[12.327s] [100%] [32m[1mLinking CXX executable clean_toilet_node[0m
+[13.175s] [100%] Built target clean_toilet_node
+[13.201s] Invoked command in '/home/zuman/hivebot_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hello_moveit -- -j6 -l6
+[13.249s] Invoking command in '/home/zuman/hivebot_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hello_moveit
+[13.267s] -- Install configuration: "Debug"
+[13.267s] -- Execute custom install script
+[13.268s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/lib/hello_moveit/hello_moveit
+[13.269s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/lib/hello_moveit/clean_toilet_node
+[13.269s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/ament_index/resource_index/package_run_dependencies/hello_moveit
+[13.271s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/ament_index/resource_index/parent_prefix_path/hello_moveit
+[13.271s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.sh
+[13.272s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.dsv
+[13.273s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/path.sh
+[13.273s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/environment/path.dsv
+[13.275s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.bash
+[13.275s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.sh
+[13.276s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.zsh
+[13.276s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/local_setup.dsv
+[13.276s] -- Symlinking: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/package.dsv
+[13.298s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/ament_index/resource_index/packages/hello_moveit
+[13.299s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig.cmake
+[13.299s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig-version.cmake
+[13.300s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hello_moveit/share/hello_moveit/package.xml
+[13.302s] Invoked command in '/home/zuman/hivebot_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hello_moveit

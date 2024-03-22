@@ -1,0 +1,228 @@
+[0.544s] Invoking command in '/home/zuman/hivebot_ws/build/yolov8_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/yolov8_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/yolov8_msgs
+[0.803s] -- The C compiler identification is GNU 11.4.0
+[0.995s] -- The CXX compiler identification is GNU 11.4.0
+[1.036s] -- Detecting C compiler ABI info
+[1.214s] -- Detecting C compiler ABI info - done
+[1.226s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.226s] -- Detecting C compile features
+[1.227s] -- Detecting C compile features - done
+[1.231s] -- Detecting CXX compiler ABI info
+[1.349s] -- Detecting CXX compiler ABI info - done
+[1.355s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.355s] -- Detecting CXX compile features
+[1.356s] -- Detecting CXX compile features - done
+[1.382s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.585s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.673s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.741s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[1.832s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.843s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.863s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.899s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.993s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.083s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.464s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.921s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.082s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.111s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.115s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.151s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.152s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.152s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.152s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.177s] -- Found PythonExtra: .so  
+[3.259s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.305s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.307s] -- Added test 'lint_cmake' to check CMake code style
+[3.308s] -- Added test 'xmllint' to check XML markup files
+[3.312s] -- Configuring done
+[3.352s] -- Generating done
+[3.354s] -- Build files have been written to: /home/zuman/hivebot_ws/build/yolov8_msgs
+[3.363s] Invoked command in '/home/zuman/hivebot_ws/build/yolov8_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/yolov8_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/yolov8_msgs
+[3.365s] Invoking command in '/home/zuman/hivebot_ws/build/yolov8_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/yolov8_msgs -- -j6 -l6
+[3.415s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[3.425s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.434s] [  5%] Built target ament_cmake_python_symlink_yolov8_msgs
+[3.757s] [  5%] Built target yolov8_msgs__cpp
+[3.761s] running egg_info
+[3.762s] creating yolov8_msgs.egg-info
+[3.763s] writing yolov8_msgs.egg-info/PKG-INFO
+[3.763s] writing dependency_links to yolov8_msgs.egg-info/dependency_links.txt
+[3.764s] writing top-level names to yolov8_msgs.egg-info/top_level.txt
+[3.764s] writing manifest file 'yolov8_msgs.egg-info/SOURCES.txt'
+[3.770s] reading manifest file 'yolov8_msgs.egg-info/SOURCES.txt'
+[3.770s] [  7%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[3.770s] [ 10%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.775s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[3.775s] writing manifest file 'yolov8_msgs.egg-info/SOURCES.txt'
+[3.848s] [ 12%] Built target ament_cmake_python_build_yolov8_msgs_egg
+[3.858s] [ 15%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_generator_c.dir/rosidl_generator_c/yolov8_msgs/msg/detail/inference_result__functions.c.o[0m
+[3.867s] [ 17%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_generator_c.dir/rosidl_generator_c/yolov8_msgs/msg/detail/yolov8_inference__functions.c.o[0m
+[3.959s] [ 20%] [32m[1mLinking C shared library libyolov8_msgs__rosidl_generator_c.so[0m
+[4.015s] [ 20%] Built target yolov8_msgs__rosidl_generator_c
+[4.026s] [ 25%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[4.027s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.027s] [ 28%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[4.115s] [ 30%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/yolov8_msgs/msg/inference_result__type_support.cpp.o[0m
+[4.156s] [ 33%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/yolov8_msgs/msg/detail/inference_result__type_support.cpp.o[0m
+[4.177s] [ 35%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/yolov8_msgs/msg/detail/dds_fastrtps/inference_result__type_support.cpp.o[0m
+[4.372s] [ 38%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/yolov8_msgs/msg/inference_result__type_support.cpp.o[0m
+[4.398s] [ 41%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/yolov8_msgs/msg/detail/inference_result__type_support.c.o[0m
+[4.420s] [ 46%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/yolov8_msgs/msg/detail/inference_result__type_support_c.cpp.o[0m
+[4.420s] [ 46%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/yolov8_msgs/msg/yolov8_inference__type_support.cpp.o[0m
+[4.457s] [ 51%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/yolov8_msgs/msg/detail/yolov8_inference__type_support.c.o[0m
+[4.457s] [ 51%] [32m[1mLinking CXX shared library libyolov8_msgs__rosidl_typesupport_c.so[0m
+[4.513s] [ 51%] Built target yolov8_msgs__rosidl_typesupport_c
+[4.520s] [ 53%] [32m[1mLinking C shared library libyolov8_msgs__rosidl_typesupport_introspection_c.so[0m
+[4.523s] [ 56%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/yolov8_msgs/msg/detail/yolov8_inference__type_support_c.cpp.o[0m
+[4.579s] [ 58%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/yolov8_msgs/msg/yolov8_inference__type_support.cpp.o[0m
+[4.586s] [ 58%] Built target yolov8_msgs__rosidl_typesupport_introspection_c
+[4.604s] [ 61%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/yolov8_msgs/msg/detail/dds_fastrtps/yolov8_inference__type_support.cpp.o[0m
+[4.735s] [ 64%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/yolov8_msgs/msg/detail/yolov8_inference__type_support.cpp.o[0m
+[4.892s] [ 66%] [32m[1mLinking CXX shared library libyolov8_msgs__rosidl_typesupport_cpp.so[0m
+[4.906s] [ 69%] [32m[1mLinking CXX shared library libyolov8_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[4.943s] [ 69%] Built target yolov8_msgs__rosidl_typesupport_cpp
+[4.998s] [ 69%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_c
+[5.092s] [ 71%] [32m[1mLinking CXX shared library libyolov8_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[5.171s] [ 74%] [32m[1mLinking CXX shared library libyolov8_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[5.174s] [ 74%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_cpp
+[5.252s] [ 74%] Built target yolov8_msgs__rosidl_typesupport_introspection_cpp
+[5.274s] [ 74%] Built target yolov8_msgs
+[5.297s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[5.703s] [ 76%] Built target yolov8_msgs__py
+[5.728s] [ 82%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_generator_py.dir/rosidl_generator_py/yolov8_msgs/msg/_yolov8_inference_s.c.o[0m
+[5.728s] [ 82%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_generator_py.dir/rosidl_generator_py/yolov8_msgs/msg/_inference_result_s.c.o[0m
+[6.035s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/libyolov8_msgs__rosidl_generator_py.so[0m
+[6.085s] [ 84%] Built target yolov8_msgs__rosidl_generator_py
+[6.110s] [ 92%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[6.111s] [ 92%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[6.111s] [ 92%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[6.225s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.227s] [100%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.228s] [100%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.269s] [100%] Built target yolov8_msgs__rosidl_typesupport_introspection_c__pyext
+[6.270s] [100%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_c__pyext
+[6.274s] [100%] Built target yolov8_msgs__rosidl_typesupport_c__pyext
+[6.288s] Invoked command in '/home/zuman/hivebot_ws/build/yolov8_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/yolov8_msgs -- -j6 -l6
+[6.381s] Invoking command in '/home/zuman/hivebot_ws/build/yolov8_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/yolov8_msgs
+[6.400s] -- Install configuration: ""
+[6.401s] -- Execute custom install script
+[6.402s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/ament_index/resource_index/rosidl_interfaces/yolov8_msgs
+[6.413s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__functions.h
+[6.422s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__struct.h
+[6.435s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__type_support.h
+[6.445s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__functions.h
+[6.455s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__struct.h
+[6.465s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__type_support.h
+[6.475s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/inference_result.h
+[6.483s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/rosidl_generator_c__visibility_control.h
+[6.496s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/yolov8_inference.h
+[6.508s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/library_path.sh
+[6.521s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/library_path.dsv
+[6.531s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__rosidl_typesupport_fastrtps_c.h
+[6.540s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__rosidl_typesupport_fastrtps_c.h
+[6.549s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[6.558s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__builder.hpp
+[6.567s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__struct.hpp
+[6.575s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__traits.hpp
+[6.584s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__builder.hpp
+[6.596s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__struct.hpp
+[6.608s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__traits.hpp
+[6.618s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/inference_result.hpp
+[6.627s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/yolov8_inference.hpp
+[6.637s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__rosidl_typesupport_fastrtps_cpp.hpp
+[6.646s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__rosidl_typesupport_fastrtps_cpp.hpp
+[6.655s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[6.663s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__rosidl_typesupport_introspection_c.h
+[6.672s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__rosidl_typesupport_introspection_c.h
+[6.685s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[6.697s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/inference_result__rosidl_typesupport_introspection_cpp.hpp
+[6.706s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/include/yolov8_msgs/yolov8_msgs/msg/detail/yolov8_inference__rosidl_typesupport_introspection_cpp.hpp
+[6.718s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/pythonpath.sh
+[6.727s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/pythonpath.dsv
+[6.745s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[6.754s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[6.762s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[6.772s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[6.781s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/__init__.py
+[6.794s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_c.c
+[6.806s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[6.815s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[6.825s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/libyolov8_msgs__rosidl_generator_py.so
+[6.837s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/__init__.py
+[6.850s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/_inference_result.py
+[6.859s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/_inference_result_s.c
+[6.868s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/_yolov8_inference.py
+[6.877s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/_yolov8_inference_s.c
+[6.886s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.899s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.911s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.921s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.921s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.922s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.922s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/msg/InferenceResult.idl
+[6.938s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/msg/Yolov8Inference.idl
+[6.947s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/msg/InferenceResult.msg
+[6.956s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/msg/Yolov8Inference.msg
+[6.965s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/ament_index/resource_index/package_run_dependencies/yolov8_msgs
+[6.974s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/ament_index/resource_index/parent_prefix_path/yolov8_msgs
+[6.984s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/ament_prefix_path.sh
+[6.993s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/ament_prefix_path.dsv
+[7.005s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/path.sh
+[7.018s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/environment/path.dsv
+[7.027s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/local_setup.bash
+[7.037s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/local_setup.sh
+[7.046s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/local_setup.zsh
+[7.054s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/local_setup.dsv
+[7.063s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/package.dsv
+[7.072s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/ament_index/resource_index/packages/yolov8_msgs
+[7.081s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/rosidl_cmake-extras.cmake
+[7.090s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.102s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[7.115s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[7.125s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[7.134s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[7.142s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[7.151s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgsConfig.cmake
+[7.159s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgsConfig-version.cmake
+[7.168s] -- Symlinking: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/package.xml
+[7.176s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_generator_c.so
+[7.177s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_generator_c.so" to ""
+[7.177s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_fastrtps_c.so
+[7.177s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[7.178s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_fastrtps_cpp.so
+[7.178s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[7.178s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_introspection_c.so
+[7.179s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_introspection_c.so" to ""
+[7.179s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_c.so
+[7.179s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_c.so" to ""
+[7.179s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_introspection_cpp.so
+[7.179s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[7.180s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_cpp.so
+[7.180s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_typesupport_cpp.so" to ""
+[7.228s] Listing '/home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs'...
+[7.228s] Compiling '/home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/__init__.py'...
+[7.228s] Listing '/home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg'...
+[7.228s] Compiling '/home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/__init__.py'...
+[7.228s] Compiling '/home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/_inference_result.py'...
+[7.228s] Compiling '/home/zuman/hivebot_ws/install/yolov8_msgs/local/lib/python3.10/dist-packages/yolov8_msgs/msg/_yolov8_inference.py'...
+[7.235s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_generator_py.so
+[7.235s] -- Set runtime path of "/home/zuman/hivebot_ws/install/yolov8_msgs/lib/libyolov8_msgs__rosidl_generator_py.so" to ""
+[7.235s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_generator_cExport.cmake
+[7.236s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_generator_cExport-noconfig.cmake
+[7.236s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[7.236s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[7.236s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_generator_cppExport.cmake
+[7.237s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.237s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[7.237s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_introspection_cExport.cmake
+[7.237s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[7.237s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_cExport.cmake
+[7.238s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[7.238s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[7.238s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[7.238s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_cppExport.cmake
+[7.239s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/yolov8_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[7.239s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_generator_pyExport.cmake
+[7.239s] -- Installing: /home/zuman/hivebot_ws/install/yolov8_msgs/share/yolov8_msgs/cmake/export_yolov8_msgs__rosidl_generator_pyExport-noconfig.cmake
+[7.242s] Invoked command in '/home/zuman/hivebot_ws/build/yolov8_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/yolov8_msgs

@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+hivebot_description/__init__.py
+hivebot_description.egg-info/PKG-INFO
+hivebot_description.egg-info/SOURCES.txt
+hivebot_description.egg-info/dependency_links.txt
+hivebot_description.egg-info/entry_points.txt
+hivebot_description.egg-info/requires.txt
+hivebot_description.egg-info/top_level.txt
+hivebot_description.egg-info/zip-safe
+resource/hivebot_description

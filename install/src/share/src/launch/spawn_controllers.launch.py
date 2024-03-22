@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/src/hivebot_moveit_config/launch/spawn_controllers.launch.py

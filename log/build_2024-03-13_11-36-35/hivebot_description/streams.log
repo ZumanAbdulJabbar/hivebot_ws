@@ -1,0 +1,23 @@
+[1.556s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot_description': PYTHONPATH=/home/zuman/hivebot_ws/build/hivebot_description/prefix_override:/home/zuman/hivebot_ws/install/hivebot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/hivebot_description/build --no-deps install_data
+[1.915s] running develop
+[1.918s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.918s]   warnings.warn(
+[1.920s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.920s]   warnings.warn(
+[2.153s] running egg_info
+[2.153s] creating hivebot_description.egg-info
+[2.153s] writing hivebot_description.egg-info/PKG-INFO
+[2.154s] writing dependency_links to hivebot_description.egg-info/dependency_links.txt
+[2.154s] writing entry points to hivebot_description.egg-info/entry_points.txt
+[2.154s] writing requirements to hivebot_description.egg-info/requires.txt
+[2.154s] writing top-level names to hivebot_description.egg-info/top_level.txt
+[2.155s] writing manifest file 'hivebot_description.egg-info/SOURCES.txt'
+[2.156s] reading manifest file 'hivebot_description.egg-info/SOURCES.txt'
+[2.157s] writing manifest file 'hivebot_description.egg-info/SOURCES.txt'
+[2.159s] running build_ext
+[2.159s] Creating /home/zuman/hivebot_ws/install/hivebot_description/lib/python3.10/site-packages/hivebot-description.egg-link (link to .)
+[2.160s] 
+[2.160s] Installed /home/zuman/hivebot_ws/build/hivebot_description
+[2.160s] running install_data
+[2.160s] copying resource/hivebot_description -> /home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/packages
+[2.213s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot_description' returned '0': PYTHONPATH=/home/zuman/hivebot_ws/build/hivebot_description/prefix_override:/home/zuman/hivebot_ws/install/hivebot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/hivebot_description/build --no-deps install_data

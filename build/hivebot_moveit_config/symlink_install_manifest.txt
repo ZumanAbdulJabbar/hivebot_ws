@@ -1,0 +1,15 @@
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/ament_index/resource_index/package_run_dependencies/hivebot_moveit_config
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/ament_index/resource_index/parent_prefix_path/hivebot_moveit_config
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/ament_prefix_path.sh
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/ament_prefix_path.dsv
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/path.sh
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/path.dsv
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.bash
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.sh
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.zsh
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.dsv
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/package.dsv
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/ament_index/resource_index/packages/hivebot_moveit_config
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/cmake/hivebot_moveit_configConfig.cmake
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/cmake/hivebot_moveit_configConfig-version.cmake
+/home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/package.xml

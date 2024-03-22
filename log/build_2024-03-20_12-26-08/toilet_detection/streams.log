@@ -1,0 +1,23 @@
+[1.590s] Invoking command in '/home/zuman/hivebot_ws/build/toilet_detection': PYTHONPATH=/home/zuman/hivebot_ws/build/toilet_detection/prefix_override:/home/zuman/hivebot_ws/install/toilet_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/toilet_detection/build --no-deps install_data
+[1.942s] running develop
+[2.181s] running egg_info
+[2.181s] creating toilet_detection.egg-info
+[2.181s] writing toilet_detection.egg-info/PKG-INFO
+[2.181s] writing dependency_links to toilet_detection.egg-info/dependency_links.txt
+[2.181s] writing entry points to toilet_detection.egg-info/entry_points.txt
+[2.181s] writing requirements to toilet_detection.egg-info/requires.txt
+[2.181s] writing top-level names to toilet_detection.egg-info/top_level.txt
+[2.182s] writing manifest file 'toilet_detection.egg-info/SOURCES.txt'
+[2.184s] reading manifest file 'toilet_detection.egg-info/SOURCES.txt'
+[2.184s] writing manifest file 'toilet_detection.egg-info/SOURCES.txt'
+[2.186s] running build_ext
+[2.186s] Creating /home/zuman/hivebot_ws/install/toilet_detection/lib/python3.10/site-packages/toilet-detection.egg-link (link to .)
+[2.187s] 
+[2.187s] Installed /home/zuman/hivebot_ws/build/toilet_detection
+[2.187s] running install_data
+[2.188s] creating /home/zuman/hivebot_ws/install/toilet_detection/share/ament_index
+[2.188s] creating /home/zuman/hivebot_ws/install/toilet_detection/share/ament_index/resource_index
+[2.188s] creating /home/zuman/hivebot_ws/install/toilet_detection/share/ament_index/resource_index/packages
+[2.188s] copying resource/toilet_detection -> /home/zuman/hivebot_ws/install/toilet_detection/share/ament_index/resource_index/packages
+[2.188s] copying package.xml -> /home/zuman/hivebot_ws/install/toilet_detection/share/toilet_detection
+[2.354s] Invoked command in '/home/zuman/hivebot_ws/build/toilet_detection' returned '0': PYTHONPATH=/home/zuman/hivebot_ws/build/toilet_detection/prefix_override:/home/zuman/hivebot_ws/install/toilet_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/toilet_detection/build --no-deps install_data

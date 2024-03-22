@@ -1,0 +1,8 @@
+source;share/hivebot/hook/cmake_prefix_path.ps1
+source;share/hivebot/hook/cmake_prefix_path.dsv
+source;share/hivebot/hook/cmake_prefix_path.sh
+source;share/hivebot/local_setup.bash
+source;share/hivebot/local_setup.dsv
+source;share/hivebot/local_setup.ps1
+source;share/hivebot/local_setup.sh
+source;share/hivebot/local_setup.zsh

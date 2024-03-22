@@ -1,0 +1,60 @@
+[0.148s] Invoking command in '/home/zuman/hivebot_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/Hivebot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/articubot_one
+[0.331s] -- The C compiler identification is GNU 11.4.0
+[0.506s] -- The CXX compiler identification is GNU 11.4.0
+[0.530s] -- Detecting C compiler ABI info
+[0.657s] -- Detecting C compiler ABI info - done
+[0.668s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.669s] -- Detecting C compile features
+[0.671s] -- Detecting C compile features - done
+[0.679s] -- Detecting CXX compiler ABI info
+[0.815s] -- Detecting CXX compiler ABI info - done
+[0.829s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.829s] -- Detecting CXX compile features
+[0.830s] -- Detecting CXX compile features - done
+[0.851s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.125s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.247s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.329s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.538s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.565s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.568s] -- Added test 'lint_cmake' to check CMake code style
+[1.570s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.582s] -- Added test 'xmllint' to check XML markup files
+[1.586s] -- Configuring done
+[1.591s] -- Generating done
+[1.593s] -- Build files have been written to: /home/zuman/hivebot_ws/build/articubot_one
+[1.600s] Invoked command in '/home/zuman/hivebot_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/Hivebot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/articubot_one
+[1.604s] Invoking command in '/home/zuman/hivebot_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/articubot_one -- -j6 -l6
+[1.670s] Invoked command in '/home/zuman/hivebot_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/articubot_one -- -j6 -l6
+[1.718s] Invoking command in '/home/zuman/hivebot_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/articubot_one
+[1.728s] -- Install configuration: ""
+[1.729s] -- Execute custom install script
+[1.730s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/config/empty.yaml
+[1.752s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/config/initial_positions.yaml
+[1.767s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/config/view_bot.rviz
+[1.782s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/description/gazebo_control.xacro
+[1.794s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/description/inertial_macros.xacro
+[1.807s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/description/lidar.xacro
+[1.820s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/description/robot.urdf.xacro
+[1.832s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/description/robot_core.xacro
+[1.848s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/launch/arm.launch.py
+[1.863s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/launch/launch_sim.launch.py
+[1.875s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/launch/rsp.launch.py
+[1.888s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/worlds/dummy.world
+[1.900s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/worlds/empty.world
+[1.921s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/ament_index/resource_index/package_run_dependencies/articubot_one
+[1.933s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/ament_index/resource_index/parent_prefix_path/articubot_one
+[1.946s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/environment/ament_prefix_path.sh
+[1.961s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/environment/ament_prefix_path.dsv
+[1.975s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/environment/path.sh
+[1.992s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/environment/path.dsv
+[2.005s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/local_setup.bash
+[2.018s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/local_setup.sh
+[2.032s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/local_setup.zsh
+[2.049s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/local_setup.dsv
+[2.062s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/package.dsv
+[2.077s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/ament_index/resource_index/packages/articubot_one
+[2.092s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig.cmake
+[2.105s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig-version.cmake
+[2.118s] -- Symlinking: /home/zuman/hivebot_ws/install/articubot_one/share/articubot_one/package.xml
+[2.137s] Invoked command in '/home/zuman/hivebot_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/articubot_one

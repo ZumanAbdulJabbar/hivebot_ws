@@ -1,0 +1,74 @@
+[0.100s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot -- -j6 -l6
+[0.157s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.425s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.473s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.575s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.616s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[0.654s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[0.655s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.655s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.655s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.689s] -- Found PythonExtra: .so  
+[0.761s] -- Configuring done
+[0.768s] -- Generating done
+[0.769s] -- Build files have been written to: /home/zuman/hivebot_ws/build/hivebot
+[0.793s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot -- -j6 -l6
+[0.830s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot
+[0.842s] -- Install configuration: ""
+[0.842s] -- Execute custom install script
+[0.843s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/empty.yaml
+[0.843s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/initial_positions.yaml
+[0.843s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/ur5/default_kinematics.yaml
+[0.843s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/ur5/joint_limits.yaml
+[0.844s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/ur5/physical_parameters.yaml
+[0.844s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/ur5/visual_parameters.yaml
+[0.844s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/view_bot.rviz
+[0.844s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/gazebo_control.xacro
+[0.844s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/inertial_macros.xacro
+[0.844s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/lidar.xacro
+[0.844s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/robot.urdf.xacro
+[0.845s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/robot_core.xacro
+[0.845s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/ur.urdf.xacro
+[0.845s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/launch/arm.launch.py
+[0.845s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/launch/launch_sim.launch.py
+[0.845s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/launch/rsp.launch.py
+[0.845s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/worlds/dummy.world
+[0.846s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/worlds/empty.world
+[0.846s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/collision/base.stl
+[0.857s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/collision/forearm.stl
+[0.868s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/collision/shoulder.stl
+[0.878s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/collision/upperarm.stl
+[0.889s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/collision/wrist1.stl
+[0.899s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/collision/wrist2.stl
+[0.909s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/collision/wrist3.stl
+[0.918s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/visual/base.dae
+[0.929s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/visual/forearm.dae
+[0.943s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/visual/shoulder.dae
+[0.957s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/visual/upperarm.dae
+[0.968s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/visual/wrist1.dae
+[0.979s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/visual/wrist2.dae
+[0.989s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/mesh/ur5/visual/wrist3.dae
+[0.999s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/inc/ur_common.xacro
+[1.010s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/inc/ur_joint_control.xacro
+[1.020s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/inc/ur_sensors.xacro
+[1.029s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/inc/ur_transmissions.xacro
+[1.042s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/ros2_control_mock_hardware.xacro
+[1.054s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/ur.urdf.xacro
+[1.067s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/ur_macro.xacro
+[1.077s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/urdf/ur_mocked.urdf.xacro
+[1.089s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/ament_index/resource_index/package_run_dependencies/hivebot
+[1.089s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/ament_index/resource_index/parent_prefix_path/hivebot
+[1.090s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/ament_prefix_path.sh
+[1.091s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/ament_prefix_path.dsv
+[1.091s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/path.sh
+[1.092s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/path.dsv
+[1.093s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.bash
+[1.093s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.sh
+[1.094s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.zsh
+[1.094s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.dsv
+[1.095s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.dsv
+[1.103s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/ament_index/resource_index/packages/hivebot
+[1.103s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/cmake/hivebotConfig.cmake
+[1.103s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/cmake/hivebotConfig-version.cmake
+[1.103s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.xml
+[1.106s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot

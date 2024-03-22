@@ -1,0 +1,20 @@
+<launch>
+  <node pkg="hello_moveit" exec="home" name="home" output="screen" />
+
+  <delay sec="5" />
+
+  <node pkg="hello_moveit" exec="pick_sprayer" name="pick_sprayer" output="screen" />
+
+  <delay sec="5" />
+
+  <node pkg="hello_moveit" exec="clean_toilet_node" name="clean_toilet" output="screen" />
+
+  <delay sec="5" />
+
+  <node pkg="hello_moveit" exec="pick_sprayer" name="pick_sprayer" output="screen" />
+
+  <delay sec="5" />
+
+  <node pkg="hello_moveit" exec="home" name="home" output="screen" />
+</launch>
+

@@ -1,0 +1,67 @@
+[0.076s] Invoking command in '/home/zuman/hivebot_ws/build/src': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/hivebot_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/src
+[0.130s] -- The C compiler identification is GNU 11.4.0
+[0.181s] -- The CXX compiler identification is GNU 11.4.0
+[0.190s] -- Detecting C compiler ABI info
+[0.261s] -- Detecting C compiler ABI info - done
+[0.268s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.268s] -- Detecting C compile features
+[0.268s] -- Detecting C compile features - done
+[0.271s] -- Detecting CXX compiler ABI info
+[0.358s] -- Detecting CXX compiler ABI info - done
+[0.362s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.363s] -- Detecting CXX compile features
+[0.363s] -- Detecting CXX compile features - done
+[0.366s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.523s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.581s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.679s] -- Configuring done
+[0.681s] -- Generating done
+[0.682s] -- Build files have been written to: /home/zuman/hivebot_ws/build/src
+[0.689s] Invoked command in '/home/zuman/hivebot_ws/build/src' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/hivebot_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/src
+[0.692s] Invoking command in '/home/zuman/hivebot_ws/build/src': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/src -- -j6 -l6
+[0.733s] Invoked command in '/home/zuman/hivebot_ws/build/src' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/src -- -j6 -l6
+[0.757s] Invoking command in '/home/zuman/hivebot_ws/build/src': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/src
+[0.769s] -- Install configuration: ""
+[0.769s] -- Execute custom install script
+[0.770s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/ament_index/resource_index/package_run_dependencies/src
+[0.780s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/ament_index/resource_index/parent_prefix_path/src
+[0.794s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/environment/ament_prefix_path.sh
+[0.804s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/environment/ament_prefix_path.dsv
+[0.816s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/environment/path.sh
+[0.826s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/environment/path.dsv
+[0.835s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/local_setup.bash
+[0.844s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/local_setup.sh
+[0.853s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/local_setup.zsh
+[0.861s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/local_setup.dsv
+[0.871s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/package.dsv
+[0.881s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/ament_index/resource_index/packages/src
+[0.891s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/cmake/srcConfig.cmake
+[0.903s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/cmake/srcConfig-version.cmake
+[0.913s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/package.xml
+[0.922s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/demo.launch.py
+[0.931s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/move_group.launch.py
+[0.939s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/moveit_rviz.launch.py
+[0.948s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/rsp.launch.py
+[0.963s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/setup_assistant.launch.py
+[0.971s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/spawn_controllers.launch.py
+[0.980s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/static_virtual_joint_tfs.launch.py
+[0.990s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/launch/warehouse_db.launch.py
+[1.001s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/initial_positions.yaml
+[1.013s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/joint_limits.yaml
+[1.023s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/kinematics.yaml
+[1.033s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/moveit.rviz
+[1.042s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/moveit_controllers.yaml
+[1.050s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/pilz_cartesian_limits.yaml
+[1.059s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/robot.ros2_control.xacro
+[1.068s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/robot.srdf
+[1.078s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/robot.urdf.xacro
+[1.091s] -- Symlinking: /home/zuman/hivebot_ws/install/src/share/src/config/ros2_controllers.yaml
+[1.102s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:158 (message):
+[1.102s]   ament_cmake_symlink_install_files() can't find
+[1.102s]   '/home/zuman/hivebot_ws/src/hivebot_moveit_config/.setup_assistant'
+[1.102s] Call Stack (most recent call first):
+[1.103s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:362 (ament_cmake_symlink_install_files)
+[1.103s]   cmake_install.cmake:46 (include)
+[1.103s] 
+[1.103s] [0m
+[1.107s] Invoked command in '/home/zuman/hivebot_ws/build/src' returned '1': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/src

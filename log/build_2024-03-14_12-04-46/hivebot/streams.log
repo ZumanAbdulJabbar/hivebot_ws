@@ -1,0 +1,36 @@
+[0.131s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot -- -j6 -l6
+[0.211s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot -- -j6 -l6
+[0.276s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot
+[0.285s] -- Install configuration: ""
+[0.286s] -- Execute custom install script
+[0.288s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/empty.yaml
+[0.289s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/initial_positions.yaml
+[0.290s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/config/view_bot.rviz
+[0.291s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/gazebo_control.xacro
+[0.292s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/inertial_macros.xacro
+[0.292s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/lidar.xacro
+[0.293s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/robot.urdf.xacro
+[0.293s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/robot_core copy.xacro
+[0.294s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/robot_core.xacro
+[0.294s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/robotarm.xacro
+[0.295s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/description/ur5.xacro
+[0.296s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/launch/launch_sim.launch.py
+[0.296s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/launch/rsp.launch.py
+[0.297s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/worlds/dummy.world
+[0.297s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/worlds/empty.world
+[0.298s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/ament_index/resource_index/package_run_dependencies/hivebot
+[0.299s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/ament_index/resource_index/parent_prefix_path/hivebot
+[0.299s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/ament_prefix_path.sh
+[0.300s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/ament_prefix_path.dsv
+[0.301s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/path.sh
+[0.301s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/environment/path.dsv
+[0.302s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.bash
+[0.302s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.sh
+[0.303s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.zsh
+[0.304s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/local_setup.dsv
+[0.305s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.dsv
+[0.305s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/ament_index/resource_index/packages/hivebot
+[0.306s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/cmake/hivebotConfig.cmake
+[0.307s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/cmake/hivebotConfig-version.cmake
+[0.307s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.xml
+[0.309s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot

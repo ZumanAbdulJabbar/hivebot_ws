@@ -1,0 +1,11 @@
+[ 20%] Built target home
+[ 40%] Built target pick_sprayer
+[ 60%] Built target gripper
+[ 70%] [32mBuilding CXX object CMakeFiles/clean_western_node.dir/src/clean_western.cpp.o[0m
+[ 80%] [32m[1mLinking CXX executable clean_western_node[0m
+[ 80%] Built target clean_western_node
+[35m[1mConsolidate compiler generated dependencies of target clean_toilet_node[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/clean_toilet_node.dir/src/clean_toilet.cpp.o[0m
+gmake[2]: *** [CMakeFiles/clean_toilet_node.dir/build.make:76: CMakeFiles/clean_toilet_node.dir/src/clean_toilet.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:171: CMakeFiles/clean_toilet_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

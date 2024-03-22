@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+detect_toilet/__init__.py
+detect_toilet/detect_toilet.py
+detect_toilet.egg-info/PKG-INFO
+detect_toilet.egg-info/SOURCES.txt
+detect_toilet.egg-info/dependency_links.txt
+detect_toilet.egg-info/entry_points.txt
+detect_toilet.egg-info/requires.txt
+detect_toilet.egg-info/top_level.txt
+detect_toilet.egg-info/zip-safe

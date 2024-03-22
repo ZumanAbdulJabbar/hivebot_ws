@@ -1,0 +1,23 @@
+[0.117s] Invoking command in '/home/zuman/hivebot_ws/build/move_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/move_robot -- -j6 -l6
+[0.161s] Invoked command in '/home/zuman/hivebot_ws/build/move_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/move_robot -- -j6 -l6
+[0.188s] Invoking command in '/home/zuman/hivebot_ws/build/move_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/move_robot
+[0.196s] -- Install configuration: ""
+[0.196s] -- Execute custom install script
+[0.196s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/package_run_dependencies/move_robot
+[0.197s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/parent_prefix_path/move_robot
+[0.197s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/ament_prefix_path.sh
+[0.197s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/ament_prefix_path.dsv
+[0.198s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/path.sh
+[0.198s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/path.dsv
+[0.198s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.bash
+[0.198s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.sh
+[0.198s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.zsh
+[0.198s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.dsv
+[0.199s] -- Symlinking: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/package.dsv
+[0.210s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/packages/move_robot
+[0.210s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/cmake/move_robotConfig.cmake
+[0.210s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/cmake/move_robotConfig-version.cmake
+[0.210s] -- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/package.xml
+[0.211s] -- Up-to-date: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/src
+[0.211s] -- Up-to-date: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/launch
+[0.278s] Invoked command in '/home/zuman/hivebot_ws/build/move_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/move_robot

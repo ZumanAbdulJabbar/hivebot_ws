@@ -1,0 +1,21 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating hivebot_description.egg-info
+writing hivebot_description.egg-info/PKG-INFO
+writing dependency_links to hivebot_description.egg-info/dependency_links.txt
+writing entry points to hivebot_description.egg-info/entry_points.txt
+writing requirements to hivebot_description.egg-info/requires.txt
+writing top-level names to hivebot_description.egg-info/top_level.txt
+writing manifest file 'hivebot_description.egg-info/SOURCES.txt'
+reading manifest file 'hivebot_description.egg-info/SOURCES.txt'
+writing manifest file 'hivebot_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/zuman/hivebot_ws/install/hivebot_description/lib/python3.10/site-packages/hivebot-description.egg-link (link to .)
+
+Installed /home/zuman/hivebot_ws/build/hivebot_description
+running install_data
+copying resource/hivebot_description -> /home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/packages

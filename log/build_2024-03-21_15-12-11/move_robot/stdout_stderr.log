@@ -1,0 +1,20 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/src/move_robot.py
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/include/move_robot/move_robot.py
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/launch/move_robot.launch.py
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/package_run_dependencies/move_robot
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/parent_prefix_path/move_robot
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/path.sh
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/path.dsv
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.bash
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.sh
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.zsh
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.dsv
+-- Symlinking: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/package.dsv
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/packages/move_robot
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/cmake/move_robotConfig.cmake
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/cmake/move_robotConfig-version.cmake
+-- Up-to-date symlink: /home/zuman/hivebot_ws/install/move_robot/share/move_robot/package.xml

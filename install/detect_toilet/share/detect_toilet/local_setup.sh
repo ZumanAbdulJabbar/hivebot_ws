@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/build/detect_toilet/ament_cmake_environment_hooks/local_setup.sh

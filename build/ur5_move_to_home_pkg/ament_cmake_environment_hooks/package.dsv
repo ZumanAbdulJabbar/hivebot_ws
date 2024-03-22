@@ -1,0 +1,4 @@
+source;share/ur5_move_to_home_pkg/local_setup.bash
+source;share/ur5_move_to_home_pkg/local_setup.dsv
+source;share/ur5_move_to_home_pkg/local_setup.sh
+source;share/ur5_move_to_home_pkg/local_setup.zsh

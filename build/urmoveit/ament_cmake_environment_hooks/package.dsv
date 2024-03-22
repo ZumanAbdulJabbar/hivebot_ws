@@ -1,0 +1,4 @@
+source;share/urmoveit/local_setup.bash
+source;share/urmoveit/local_setup.dsv
+source;share/urmoveit/local_setup.sh
+source;share/urmoveit/local_setup.zsh

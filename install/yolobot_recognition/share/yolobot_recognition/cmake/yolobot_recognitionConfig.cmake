@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/build/yolobot_recognition/ament_cmake_core/yolobot_recognitionConfig.cmake

@@ -1,0 +1,25 @@
+[1.718s] Invoking command in '/home/zuman/hivebot_ws/build/ball_tracker': PYTHONPATH=/home/zuman/hivebot_ws/build/ball_tracker/prefix_override:/home/zuman/hivebot_ws/install/ball_tracker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/ball_tracker/build --no-deps install_data
+[2.254s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.255s]   warnings.warn(
+[2.307s] running develop
+[2.307s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.307s]   warnings.warn(
+[2.312s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.312s]   warnings.warn(
+[2.605s] running egg_info
+[2.610s] writing ball_tracker.egg-info/PKG-INFO
+[2.610s] writing dependency_links to ball_tracker.egg-info/dependency_links.txt
+[2.611s] writing entry points to ball_tracker.egg-info/entry_points.txt
+[2.611s] writing requirements to ball_tracker.egg-info/requires.txt
+[2.611s] writing top-level names to ball_tracker.egg-info/top_level.txt
+[2.614s] reading manifest file 'ball_tracker.egg-info/SOURCES.txt'
+[2.615s] writing manifest file 'ball_tracker.egg-info/SOURCES.txt'
+[2.618s] running build_ext
+[2.619s] Creating /home/zuman/hivebot_ws/install/ball_tracker/lib/python3.10/site-packages/ball-tracker.egg-link (link to .)
+[2.619s] Installing detect_ball script to /home/zuman/hivebot_ws/install/ball_tracker/lib/ball_tracker
+[2.620s] Installing detect_ball_3d script to /home/zuman/hivebot_ws/install/ball_tracker/lib/ball_tracker
+[2.620s] Installing follow_ball script to /home/zuman/hivebot_ws/install/ball_tracker/lib/ball_tracker
+[2.620s] 
+[2.620s] Installed /home/zuman/hivebot_ws/build/ball_tracker
+[2.620s] running install_data
+[2.733s] Invoked command in '/home/zuman/hivebot_ws/build/ball_tracker' returned '0': PYTHONPATH=/home/zuman/hivebot_ws/build/ball_tracker/prefix_override:/home/zuman/hivebot_ws/install/ball_tracker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/ball_tracker/build --no-deps install_data

@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/build/urmoveit/ament_cmake_core/urmoveitConfig.cmake

@@ -1,0 +1,203 @@
+[1.601s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build', '--symlink-install']
+[1.601s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=True, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=6, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x7682b7fa5330>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7682b8382050>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7682b8382050>>, mixin_verb=('build',))
+[1.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[1.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.693s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/zuman/hivebot_ws'
+[1.693s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[1.693s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[1.693s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[1.693s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[1.693s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[1.693s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[1.693s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[1.694s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[1.694s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[1.704s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extensions ['ignore', 'ignore_ament_install']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extension 'ignore'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extension 'ignore_ament_install'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extensions ['colcon_pkg']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extension 'colcon_pkg'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extensions ['colcon_meta']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extension 'colcon_meta'
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extensions ['ros']
+[1.705s] Level 1:colcon.colcon_core.package_identification:_identify(src/Hivebot) by extension 'ros'
+[1.707s] DEBUG:colcon.colcon_core.package_identification:Package 'src/Hivebot' with type 'ros.ament_cmake' and name 'hivebot'
+[1.707s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extensions ['ignore', 'ignore_ament_install']
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extension 'ignore'
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extension 'ignore_ament_install'
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extensions ['colcon_pkg']
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extension 'colcon_pkg'
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extensions ['colcon_meta']
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extension 'colcon_meta'
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extensions ['ros']
+[1.708s] Level 1:colcon.colcon_core.package_identification:_identify(src/urmoveit) by extension 'ros'
+[1.709s] DEBUG:colcon.colcon_core.package_identification:Package 'src/urmoveit' with type 'ros.ament_cmake' and name 'urmoveit'
+[1.709s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[1.709s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[1.709s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[1.709s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[1.709s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[1.821s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[1.821s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[1.858s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 2 installed packages in /home/zuman/hivebot_ws/install
+[1.876s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 441 installed packages in /opt/ros/humble
+[1.877s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'cmake_args' from command line to 'None'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'cmake_target' from command line to 'None'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'cmake_clean_cache' from command line to 'False'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'cmake_clean_first' from command line to 'False'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'cmake_force_configure' from command line to 'False'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'ament_cmake_args' from command line to 'None'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'catkin_cmake_args' from command line to 'None'
+[1.990s] Level 5:colcon.colcon_core.verb:set package 'hivebot' build argument 'catkin_skip_building_tests' from command line to 'False'
+[1.990s] DEBUG:colcon.colcon_core.verb:Building package 'hivebot' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/zuman/hivebot_ws/build/hivebot', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/zuman/hivebot_ws/install/hivebot', 'merge_install': False, 'path': '/home/zuman/hivebot_ws/src/Hivebot', 'symlink_install': True, 'test_result_base': None}
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'cmake_args' from command line to 'None'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'cmake_target' from command line to 'None'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'cmake_clean_cache' from command line to 'False'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'cmake_clean_first' from command line to 'False'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'cmake_force_configure' from command line to 'False'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'ament_cmake_args' from command line to 'None'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'catkin_cmake_args' from command line to 'None'
+[2.005s] Level 5:colcon.colcon_core.verb:set package 'urmoveit' build argument 'catkin_skip_building_tests' from command line to 'False'
+[2.005s] DEBUG:colcon.colcon_core.verb:Building package 'urmoveit' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/zuman/hivebot_ws/build/urmoveit', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/zuman/hivebot_ws/install/urmoveit', 'merge_install': False, 'path': '/home/zuman/hivebot_ws/src/urmoveit', 'symlink_install': True, 'test_result_base': None}
+[2.020s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[2.035s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[2.035s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/zuman/hivebot_ws/src/Hivebot' with build type 'ament_cmake'
+[2.035s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/zuman/hivebot_ws/src/Hivebot'
+[2.060s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[2.060s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[2.060s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[2.125s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/zuman/hivebot_ws/build/hivebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot -- -j6 -l6
+[2.246s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/zuman/hivebot_ws/build/hivebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot -- -j6 -l6
+[2.281s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/zuman/hivebot_ws/build/hivebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot
+[2.316s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(hivebot)
+[2.316s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/zuman/hivebot_ws/build/hivebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot
+[2.361s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot' for CMake module files
+[2.361s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot' for CMake config files
+[2.362s] Level 1:colcon.colcon_core.shell:create_environment_hook('hivebot', 'cmake_prefix_path')
+[2.378s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/hook/cmake_prefix_path.ps1'
+[2.380s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/hook/cmake_prefix_path.dsv'
+[2.382s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/hook/cmake_prefix_path.sh'
+[2.384s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/bin'
+[2.384s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/lib/pkgconfig/hivebot.pc'
+[2.384s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/lib/python3.10/site-packages'
+[2.384s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/bin'
+[2.403s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.ps1'
+[2.404s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.dsv'
+[2.405s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.sh'
+[2.406s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.bash'
+[2.408s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.zsh'
+[2.409s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/zuman/hivebot_ws/install/hivebot/share/colcon-core/packages/hivebot)
+[2.448s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(hivebot)
+[2.464s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot' for CMake module files
+[2.464s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot' for CMake config files
+[2.465s] Level 1:colcon.colcon_core.shell:create_environment_hook('hivebot', 'cmake_prefix_path')
+[2.485s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/hook/cmake_prefix_path.ps1'
+[2.486s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/hook/cmake_prefix_path.dsv'
+[2.487s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/hook/cmake_prefix_path.sh'
+[2.487s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/bin'
+[2.487s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/lib/pkgconfig/hivebot.pc'
+[2.487s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/lib/python3.10/site-packages'
+[2.488s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/hivebot/bin'
+[2.504s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.ps1'
+[2.504s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.dsv'
+[2.505s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.sh'
+[2.505s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.bash'
+[2.505s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/hivebot/share/hivebot/package.zsh'
+[2.506s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/zuman/hivebot_ws/install/hivebot/share/colcon-core/packages/hivebot)
+[2.506s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/zuman/hivebot_ws/src/urmoveit' with build type 'ament_cmake'
+[2.506s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/zuman/hivebot_ws/src/urmoveit'
+[2.525s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[2.525s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[2.600s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/zuman/hivebot_ws/build/urmoveit': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/urmoveit -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/urmoveit
+[3.517s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/zuman/hivebot_ws/build/urmoveit' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/urmoveit -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/urmoveit
+[3.517s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/zuman/hivebot_ws/build/urmoveit': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/urmoveit -- -j6 -l6
+[3.564s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/zuman/hivebot_ws/build/urmoveit' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/urmoveit -- -j6 -l6
+[3.587s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/zuman/hivebot_ws/build/urmoveit': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/urmoveit
+[3.938s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(urmoveit)
+[3.938s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/zuman/hivebot_ws/build/urmoveit' returned '0': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/urmoveit
+[3.955s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit' for CMake module files
+[3.955s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit' for CMake config files
+[3.956s] Level 1:colcon.colcon_core.shell:create_environment_hook('urmoveit', 'cmake_prefix_path')
+[3.972s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/hook/cmake_prefix_path.ps1'
+[3.972s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/hook/cmake_prefix_path.dsv'
+[3.972s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/hook/cmake_prefix_path.sh'
+[3.973s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/bin'
+[3.973s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/lib/pkgconfig/urmoveit.pc'
+[3.973s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/lib/python3.10/site-packages'
+[3.973s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/bin'
+[3.990s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.ps1'
+[3.990s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.dsv'
+[3.990s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.sh'
+[3.990s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.bash'
+[3.991s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.zsh'
+[3.991s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/zuman/hivebot_ws/install/urmoveit/share/colcon-core/packages/urmoveit)
+[4.036s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(urmoveit)
+[4.052s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit' for CMake module files
+[4.052s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit' for CMake config files
+[4.053s] Level 1:colcon.colcon_core.shell:create_environment_hook('urmoveit', 'cmake_prefix_path')
+[4.069s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/hook/cmake_prefix_path.ps1'
+[4.069s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/hook/cmake_prefix_path.dsv'
+[4.070s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/hook/cmake_prefix_path.sh'
+[4.070s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/bin'
+[4.070s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/lib/pkgconfig/urmoveit.pc'
+[4.070s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/lib/python3.10/site-packages'
+[4.071s] Level 1:colcon.colcon_core.environment:checking '/home/zuman/hivebot_ws/install/urmoveit/bin'
+[4.087s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.ps1'
+[4.087s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.dsv'
+[4.087s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.sh'
+[4.088s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.bash'
+[4.088s] INFO:colcon.colcon_core.shell:Creating package script '/home/zuman/hivebot_ws/install/urmoveit/share/urmoveit/package.zsh'
+[4.088s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/zuman/hivebot_ws/install/urmoveit/share/colcon-core/packages/urmoveit)
+[4.089s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[4.089s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[4.089s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[4.089s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[4.120s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[4.120s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[4.121s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[4.140s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[4.160s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/zuman/hivebot_ws/install/local_setup.ps1'
+[4.164s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/zuman/hivebot_ws/install/_local_setup_util_ps1.py'
+[4.166s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/zuman/hivebot_ws/install/setup.ps1'
+[4.218s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/zuman/hivebot_ws/install/local_setup.sh'
+[4.221s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/zuman/hivebot_ws/install/_local_setup_util_sh.py'
+[4.222s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/zuman/hivebot_ws/install/setup.sh'
+[4.239s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/zuman/hivebot_ws/install/local_setup.bash'
+[4.240s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/zuman/hivebot_ws/install/setup.bash'
+[4.258s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/zuman/hivebot_ws/install/local_setup.zsh'
+[4.259s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/zuman/hivebot_ws/install/setup.zsh'

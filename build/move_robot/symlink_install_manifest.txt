@@ -1,0 +1,15 @@
+/home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/package_run_dependencies/move_robot
+/home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/parent_prefix_path/move_robot
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/ament_prefix_path.sh
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/ament_prefix_path.dsv
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/path.sh
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/environment/path.dsv
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.bash
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.sh
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.zsh
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/local_setup.dsv
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/package.dsv
+/home/zuman/hivebot_ws/install/move_robot/share/ament_index/resource_index/packages/move_robot
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/cmake/move_robotConfig.cmake
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/cmake/move_robotConfig-version.cmake
+/home/zuman/hivebot_ws/install/move_robot/share/move_robot/package.xml

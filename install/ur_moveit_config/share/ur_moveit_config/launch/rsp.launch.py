@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/src/ur_moveit_config/launch/rsp.launch.py

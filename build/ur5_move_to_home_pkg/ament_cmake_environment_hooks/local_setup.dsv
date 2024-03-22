@@ -1,0 +1,2 @@
+source;share/ur5_move_to_home_pkg/environment/ament_prefix_path.sh
+source;share/ur5_move_to_home_pkg/environment/path.sh

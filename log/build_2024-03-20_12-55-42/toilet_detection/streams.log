@@ -1,0 +1,17 @@
+[0.901s] Invoking command in '/home/zuman/hivebot_ws/build/toilet_detection': PYTHONPATH=/home/zuman/hivebot_ws/build/toilet_detection/prefix_override:/home/zuman/hivebot_ws/install/toilet_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/toilet_detection/build --no-deps install_data
+[1.214s] running develop
+[1.407s] running egg_info
+[1.407s] writing toilet_detection.egg-info/PKG-INFO
+[1.408s] writing dependency_links to toilet_detection.egg-info/dependency_links.txt
+[1.408s] writing entry points to toilet_detection.egg-info/entry_points.txt
+[1.408s] writing requirements to toilet_detection.egg-info/requires.txt
+[1.408s] writing top-level names to toilet_detection.egg-info/top_level.txt
+[1.409s] reading manifest file 'toilet_detection.egg-info/SOURCES.txt'
+[1.410s] writing manifest file 'toilet_detection.egg-info/SOURCES.txt'
+[1.411s] running build_ext
+[1.411s] Creating /home/zuman/hivebot_ws/install/toilet_detection/lib/python3.10/site-packages/toilet-detection.egg-link (link to .)
+[1.412s] Installing detect_toilet script to /home/zuman/hivebot_ws/install/toilet_detection/lib/toilet_detection
+[1.412s] 
+[1.412s] Installed /home/zuman/hivebot_ws/build/toilet_detection
+[1.412s] running install_data
+[1.444s] Invoked command in '/home/zuman/hivebot_ws/build/toilet_detection' returned '0': PYTHONPATH=/home/zuman/hivebot_ws/build/toilet_detection/prefix_override:/home/zuman/hivebot_ws/install/toilet_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zuman/hivebot_ws/build/toilet_detection/build --no-deps install_data

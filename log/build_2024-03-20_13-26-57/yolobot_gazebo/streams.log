@@ -1,0 +1,26 @@
+[0.579s] Invoking command in '/home/zuman/hivebot_ws/build/yolobot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/yolobot/src/yolobot_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/yolobot_gazebo
+[0.698s] -- The C compiler identification is GNU 11.4.0
+[0.773s] -- The CXX compiler identification is GNU 11.4.0
+[0.785s] -- Detecting C compiler ABI info
+[0.884s] -- Detecting C compiler ABI info - done
+[0.887s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.898s] -- Detecting C compile features
+[0.899s] -- Detecting C compile features - done
+[0.899s] -- Detecting CXX compiler ABI info
+[0.996s] -- Detecting CXX compiler ABI info - done
+[1.006s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.006s] -- Detecting CXX compile features
+[1.007s] -- Detecting CXX compile features - done
+[1.036s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.265s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.366s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.430s] -- Found rclpy: 3.3.12 (/opt/ros/humble/share/rclpy/cmake)
+[1.433s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.565s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.568s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.569s] -- Added test 'lint_cmake' to check CMake code style
+[1.570s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.578s] -- Added test 'xmllint' to check XML markup files
+[1.578s] -- Configuring done
+[1.578s] -- Generating done
+[1.578s] -- Build files have been written to: /home/zuman/hivebot_ws/build/yolobot_gazebo

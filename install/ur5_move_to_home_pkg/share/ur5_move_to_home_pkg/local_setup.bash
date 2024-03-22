@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/build/ur5_move_to_home_pkg/ament_cmake_environment_hooks/local_setup.bash

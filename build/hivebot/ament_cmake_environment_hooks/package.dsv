@@ -1,0 +1,4 @@
+source;share/hivebot/local_setup.bash
+source;share/hivebot/local_setup.dsv
+source;share/hivebot/local_setup.sh
+source;share/hivebot/local_setup.zsh

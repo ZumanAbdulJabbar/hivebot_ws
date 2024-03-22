@@ -1,0 +1,1 @@
+/home/zuman/hivebot_ws/build/detect_toilet/ament_cmake_core/detect_toiletConfig-version.cmake

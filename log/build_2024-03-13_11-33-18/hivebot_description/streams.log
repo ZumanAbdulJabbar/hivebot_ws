@@ -1,0 +1,46 @@
+[0.081s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/hivebot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/hivebot_description
+[0.395s] -- The C compiler identification is GNU 11.4.0
+[0.625s] -- The CXX compiler identification is GNU 11.4.0
+[0.653s] -- Detecting C compiler ABI info
+[0.774s] -- Detecting C compiler ABI info - done
+[0.780s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.781s] -- Detecting C compile features
+[0.783s] -- Detecting C compile features - done
+[0.791s] -- Detecting CXX compiler ABI info
+[0.945s] -- Detecting CXX compiler ABI info - done
+[0.962s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.962s] -- Detecting CXX compile features
+[0.963s] -- Detecting CXX compile features - done
+[0.988s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.305s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.405s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.492s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.629s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.630s] -- Added test 'lint_cmake' to check CMake code style
+[1.631s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.633s] -- Added test 'xmllint' to check XML markup files
+[1.636s] -- Configuring done
+[1.640s] -- Generating done
+[1.644s] -- Build files have been written to: /home/zuman/hivebot_ws/build/hivebot_description
+[1.653s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/hivebot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/hivebot_description
+[1.658s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot_description -- -j6 -l6
+[1.715s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot_description -- -j6 -l6
+[1.767s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot_description
+[1.781s] -- Install configuration: ""
+[1.781s] -- Execute custom install script
+[1.782s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/package_run_dependencies/hivebot_description
+[1.794s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/parent_prefix_path/hivebot_description
+[1.807s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/ament_prefix_path.sh
+[1.819s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/ament_prefix_path.dsv
+[1.831s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/path.sh
+[1.844s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/path.dsv
+[1.861s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.bash
+[1.877s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.sh
+[1.890s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.zsh
+[1.903s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.dsv
+[1.915s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/package.dsv
+[1.928s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/packages/hivebot_description
+[1.941s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/cmake/hivebot_descriptionConfig.cmake
+[1.957s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/cmake/hivebot_descriptionConfig-version.cmake
+[1.973s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/package.xml
+[1.989s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot_description

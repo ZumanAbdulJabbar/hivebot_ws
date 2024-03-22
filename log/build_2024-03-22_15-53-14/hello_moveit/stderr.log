@@ -1,0 +1,7 @@
+[01m[K/home/zuman/hivebot_ws/src/hello_moveit/src/clean_western.cpp:70:1:[m[K [01;31m[Kfatal error: [m[Kerror writing to /tmp/ccRg82sa.s: No space left on device
+   70 | [01;31m[K}[m[K
+      | [01;31m[K^[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/clean_western_node.dir/build.make:76: CMakeFiles/clean_western_node.dir/src/clean_western.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:197: CMakeFiles/clean_western_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

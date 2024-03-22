@@ -1,0 +1,12 @@
+source;share/detect_toilet/hook/cmake_prefix_path.ps1
+source;share/detect_toilet/hook/cmake_prefix_path.dsv
+source;share/detect_toilet/hook/cmake_prefix_path.sh
+source;share/detect_toilet/hook/pythonpath.ps1
+source;share/detect_toilet/hook/pythonpath.dsv
+source;share/detect_toilet/hook/pythonpath.sh
+source;share/detect_toilet/hook/ament_prefix_path.ps1
+source;share/detect_toilet/hook/ament_prefix_path.dsv
+source;share/detect_toilet/hook/ament_prefix_path.sh
+source;../../build/detect_toilet/share/detect_toilet/hook/pythonpath_develop.ps1
+source;../../build/detect_toilet/share/detect_toilet/hook/pythonpath_develop.dsv
+source;../../build/detect_toilet/share/detect_toilet/hook/pythonpath_develop.sh

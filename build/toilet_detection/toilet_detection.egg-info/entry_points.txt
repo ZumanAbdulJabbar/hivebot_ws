@@ -1,0 +1,3 @@
+[console_scripts]
+detect_toilet = toilet_detection.detect_toilet:main
+

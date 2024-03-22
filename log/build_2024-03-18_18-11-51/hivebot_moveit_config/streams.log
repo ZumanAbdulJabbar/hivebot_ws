@@ -1,0 +1,46 @@
+[0.081s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/hivebot_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/hivebot_moveit_config
+[0.132s] -- The C compiler identification is GNU 11.4.0
+[0.206s] -- The CXX compiler identification is GNU 11.4.0
+[0.214s] -- Detecting C compiler ABI info
+[0.305s] -- Detecting C compiler ABI info - done
+[0.312s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.312s] -- Detecting C compile features
+[0.312s] -- Detecting C compile features - done
+[0.315s] -- Detecting CXX compiler ABI info
+[0.401s] -- Detecting CXX compiler ABI info - done
+[0.408s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.408s] -- Detecting CXX compile features
+[0.409s] -- Detecting CXX compile features - done
+[0.411s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.592s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.652s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.685s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.780s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.781s] -- Added test 'lint_cmake' to check CMake code style
+[0.784s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.787s] -- Added test 'xmllint' to check XML markup files
+[0.788s] -- Configuring done
+[0.791s] -- Generating done
+[0.792s] -- Build files have been written to: /home/zuman/hivebot_ws/build/hivebot_moveit_config
+[0.797s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/zuman/hivebot_ws/src/hivebot_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zuman/hivebot_ws/install/hivebot_moveit_config
+[0.798s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot_moveit_config -- -j6 -l6
+[0.837s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/hivebot_moveit_config -- -j6 -l6
+[0.862s] Invoking command in '/home/zuman/hivebot_ws/build/hivebot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot_moveit_config
+[0.869s] -- Install configuration: ""
+[0.870s] -- Execute custom install script
+[0.870s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/ament_index/resource_index/package_run_dependencies/hivebot_moveit_config
+[0.884s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/ament_index/resource_index/parent_prefix_path/hivebot_moveit_config
+[0.896s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/ament_prefix_path.sh
+[0.906s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/ament_prefix_path.dsv
+[0.915s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/path.sh
+[0.924s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/environment/path.dsv
+[0.933s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.bash
+[0.942s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.sh
+[0.951s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.zsh
+[0.960s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/local_setup.dsv
+[0.970s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/package.dsv
+[0.982s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/ament_index/resource_index/packages/hivebot_moveit_config
+[0.994s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/cmake/hivebot_moveit_configConfig.cmake
+[1.004s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/cmake/hivebot_moveit_configConfig-version.cmake
+[1.015s] -- Symlinking: /home/zuman/hivebot_ws/install/hivebot_moveit_config/share/hivebot_moveit_config/package.xml
+[1.027s] Invoked command in '/home/zuman/hivebot_ws/build/hivebot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zuman/hivebot_ws/build/hivebot_moveit_config

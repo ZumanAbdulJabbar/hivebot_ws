@@ -1,0 +1,15 @@
+/home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/package_run_dependencies/hivebot_description
+/home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/parent_prefix_path/hivebot_description
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/ament_prefix_path.sh
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/ament_prefix_path.dsv
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/path.sh
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/environment/path.dsv
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.bash
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.sh
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.zsh
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/local_setup.dsv
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/package.dsv
+/home/zuman/hivebot_ws/install/hivebot_description/share/ament_index/resource_index/packages/hivebot_description
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/cmake/hivebot_descriptionConfig.cmake
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/cmake/hivebot_descriptionConfig-version.cmake
+/home/zuman/hivebot_ws/install/hivebot_description/share/hivebot_description/package.xml

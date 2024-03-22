@@ -1,0 +1,2 @@
+Invoking command in '/home/zuman/hivebot_ws/build/src': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/src -- -j6 -l6
+Invoked command in '/home/zuman/hivebot_ws/build/src' returned '2': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/src -- -j6 -l6

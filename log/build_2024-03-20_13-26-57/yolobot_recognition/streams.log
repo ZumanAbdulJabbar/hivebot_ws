@@ -1,0 +1,5 @@
+[0.486s] Invoking command in '/home/zuman/hivebot_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/yolobot_recognition -- -j6 -l6
+[0.509s] [0mCMake Error: The source directory "/home/zuman/hivebot_ws/src/yolobot_recognition" does not exist.
+[0.509s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.510s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.512s] Invoked command in '/home/zuman/hivebot_ws/build/yolobot_recognition' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zuman/hivebot_ws/install/toilet_detection:/home/zuman/hivebot_ws/install/ball_tracker:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/yolobot_recognition -- -j6 -l6

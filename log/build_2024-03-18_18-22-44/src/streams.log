@@ -1,0 +1,5 @@
+[0.083s] Invoking command in '/home/zuman/hivebot_ws/build/src': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/src -- -j6 -l6
+[0.108s] [0mCMake Error: The source directory "/home/zuman/hivebot_ws/src/hivebot_moveit_config" does not appear to contain CMakeLists.txt.
+[0.108s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.109s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.112s] Invoked command in '/home/zuman/hivebot_ws/build/src' returned '2': CMAKE_PREFIX_PATH=/home/zuman/hivebot_ws/install/hivebot:/home/zuman/hivebot_ws/install/hivebot_description:/opt/ros/humble /usr/bin/cmake --build /home/zuman/hivebot_ws/build/src -- -j6 -l6

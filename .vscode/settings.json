@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zuman/hivebot_ws/build/hivebot_description",
+        "/home/zuman/hivebot_ws/install/hivebot_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/zuman/hivebot_ws/build/hivebot_description",
+        "/home/zuman/hivebot_ws/install/hivebot_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/zuman/hivebot_ws/src/Hivebot"
+}
