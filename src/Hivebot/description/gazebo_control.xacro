@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro">
     <gazebo>
-        <plugin name="omni_drive_controller" filename="libgazebo_ros_diff_drive.so">
+        <plugin name="omni_drive_controller" filename="libomni_drive_controller.so">
             <!-- wheels -->
-            <num_wheel_pairs>2</num_wheel_pairs>
-            <left_joint>front_left_wheel_joint</left_joint>
-            <left_joint>rear_left_wheel_joint</left_joint>
-            <right_joint>front_right_wheel_joint</right_joint>
-            <right_joint>rear_right_wheel_joint</right_joint>
+            <frontLeftJoint>front_left_wheel_joint</frontLeftJoint>
+            <rearLeftJoint>rear_left_wheel_joint</rearLeftJoint>
+            <frontRightJoint>front_right_wheel_joint</frontRightJoint>
+            <rearRightJoint>rear_right_wheel_joint</rearRightJoint>
             
             <wheel_separation>0.4</wheel_separation>
             <wheel_separation>0.4</wheel_separation>
